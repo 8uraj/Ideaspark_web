@@ -1,6 +1,5 @@
-**Hackathon Host Website - README**
-
-Welcome to Hackathon Host Website, a full-stack web application developed by IdeaSpark! This platform allows users to host hackathons and manage event registrations seamlessly. Below you'll find all the necessary information to get started with this project.
+**IdeaSpark**
+IdeaSpark is a full-stack web application aimed at sparking creativity and collaboration by providing a platform for users to share and explore ideas. Whether you're organizing a hackathon or looking to participate, IdeaSpark has got you covered.
 
 ### Features:
 
