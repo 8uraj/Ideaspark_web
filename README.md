@@ -45,10 +45,10 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 ### License:
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ### Contact:
 
-For any inquiries or support, please contact us at [surajyelpale7@gmail.com](Email)
+For any inquiries or support, please contact us at [Email](surajyelpale7@gmail.com)
 
 Thank you for using Hackathon Host Website! We hope you find it useful for organizing and participating in hackathons.
