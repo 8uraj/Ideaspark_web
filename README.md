@@ -1,4 +1,4 @@
-**IdeaSpark**
+### IdeaSpark
 IdeaSpark is a full-stack web application aimed at sparking creativity and collaboration by providing a platform for users to share and explore ideas. Whether you're organizing a hackathon or looking to participate, IdeaSpark has got you covered.
 
 ### Features:
