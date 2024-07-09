@@ -1,12 +1,3 @@
-### IdeaSpark
-IdeaSpark is a full-stack web application aimed at sparking creativity and collaboration by providing a platform for users to share and explore ideas. Whether you're organizing a hackathon or looking to participate, IdeaSpark has got you covered.
-
-### Features:
-
-1. **Event Registration:** Users can register for upcoming hackathons by providing necessary details.
-2. **Event Hosting:** Organizers can create and manage hackathon events efficiently.
-3. **User Authentication:** Secure user authentication system to ensure data privacy and integrity.
-4. **Responsive Design:** The website is designed to be responsive, ensuring optimal user experience across various devices and screen sizes.
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
@@ -51,13 +42,17 @@ IdeaSpark is a full-stack web application aimed at sparking creativity and colla
 
 ## 📍 Overview
 
-HTTP error 401 for prompt `overview`
+IdeaSpark is a full-stack web application aimed at sparking creativity and collaboration by providing a platform for users to share and explore ideas. Whether you're organizing a hackathon or looking to participate, IdeaSpark has got you covered.
 
 ---
 
 ## 📦 Features
 
-HTTP error 401 for prompt `features`
+1. **Event Registration:** Users can register for upcoming hackathons by providing necessary details.
+2. **Event Hosting:** Organizers can create and manage hackathon events efficiently.
+3. **User Authentication:** Secure user authentication system to ensure data privacy and integrity.
+4. **Responsive Design:** The website is designed to be responsive, ensuring optimal user experience across various devices and screen sizes.
+
 
 ---
 
