@@ -284,12 +284,6 @@ IdeaSpark is a full-stack web application aimed at sparking creativity and colla
 
 ## 🚀 Getting Started
 
-***Requirements***
-
-Ensure you have the following dependencies installed on your system:
-
-* **JavaScript**: `version x.y.z`
-
 ### ⚙️ Installation
 
 1. Clone the Ideaspark_web repository:
