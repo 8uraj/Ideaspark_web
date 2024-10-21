@@ -5,9 +5,7 @@
 <p align="center">
     <h1 align="center">IDEASPARK_WEB</h1>
 </p>
-<p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
-</p>
+
 <p align="center">
 	<img src="https://img.shields.io/github/license/8uraj/Ideaspark_web?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/8uraj/Ideaspark_web?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
